@@ -1,0 +1,66 @@
+body{
+    font-family: comic-sans;
+}
+
+#board{
+    display:none;
+}
+#start{
+    padding-top:30%;
+}
+
+#box0{
+    border-right:1px solid black;
+    border-bottom:1px solid black;
+    padding-top:5%;
+    padding-bottom:5%;
+    
+    
+}
+#box1{
+    border-bottom:1px solid black;
+    padding-top:5%;
+    padding-bottom:5%;
+}
+#box2{
+    border-left:1px solid black;
+    border-bottom:1px solid black;
+    padding-top:5%;
+    padding-bottom:5%;
+}
+#box3{
+    border-right:1px solid black;
+    border-bottom:1px solid black;
+    padding-top:5%;
+    padding-bottom:5%;
+}
+#box4{
+    border-bottom:1px solid black;
+    padding-top:5%;
+    padding-bottom:5%;
+}
+#box5{
+    border-left:1px solid black;
+    border-bottom:1px solid black;
+    padding-top:5%;
+    padding-bottom:5%;
+}
+#box6{
+    border-right:1px solid black;
+    padding-top:5%;
+    padding-bottom:5%;
+}
+#box7{
+    padding-top:5%;
+    padding-bottom:5%;
+    
+}
+#box8{
+    border-left:1px solid black;
+    padding-top:5%;
+    padding-bottom:5%;
+}
+
+#startResetButtons{
+    padding-top:5%;
+}
